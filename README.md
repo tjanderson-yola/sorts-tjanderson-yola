@@ -1,7 +1,7 @@
 # sorts-tjanderson-yola
 
 ## Problem Description
-
+There are a number of different sorting algorithms but which one should used when? This assignment takes 7 sorts and compares their times when given the same list of random integers. Each of these sorts must read in a list from std in and sort the list then print it to std out. 
 
 
 ## Cheater Check
